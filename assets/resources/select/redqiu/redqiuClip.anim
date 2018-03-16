@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "redqiuClip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.23333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8e32a632-1131-49cb-88b9-2d24da02d1b9"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "6bfd9c79-1e40-4877-98aa-5faf0b467d60"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e02dea85-ebf0-4ca2-b51d-9cd07e575464"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "6bfd9c79-1e40-4877-98aa-5faf0b467d60"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "8e32a632-1131-49cb-88b9-2d24da02d1b9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

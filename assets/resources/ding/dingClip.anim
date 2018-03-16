@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dingClip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ee6d0be6-e76b-4229-8bae-38ef0ea6bb61"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "c4244217-fcaa-42bc-82d7-3806107aa426"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "d9138914-1b54-49ef-82d0-a1ff72815365"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e7006658-2a5a-4328-8101-ad53ddecc3ad"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "77aee4e6-7a1c-4ea8-a86f-0766ff76b32c"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e56585db-13a8-497f-ad41-35f9d6b0bd42"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9faa4719-3a48-4e3c-9337-089367eea205"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
